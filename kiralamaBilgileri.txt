@@ -1,0 +1,32 @@
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+Musteri Adi: Durukan
+Musteri Soyadi: Cetin
+Kiralama Tarihi: 12/10/2023
+Teslim Tarihi: 23/10/2023
+Kira Ucreti: 5445.00
+---------------------------------------------------------------------
+Musteri Adi: Irem
+Musteri Soyadi: Guven
+Kiralama Tarihi: 12/10/2023
+Teslim Tarihi: 22/10/2023
+Kira Ucreti: 1800.00
+---------------------------------------------------------------------
+AracID: 4
+Marka: Ford
+Model: Focus
+Musteri Adi: Durukan
+Musteri Soyadi: Cetin
+Kiralama Tarihi: 12/10/2023
+Teslim Tarihi: 24/10/2023
+Kira Ucreti: 2376.00
+---------------------------------------------------------------------
+AracID: 8
+Marka: BMW
+Model: 420i
+Musteri Adi: Durukan
+Musteri Soyadi: Cetin
+Kiralama Tarihi: 12/10/2023
+Teslim Tarihi: 20/10/2023
+Kira Ucreti: 3240.00
